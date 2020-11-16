@@ -18,6 +18,7 @@
                 <a class="dropdown-item" href="{{url('sayuran')}}">Pants</a>
                 <a class="dropdown-item" href="{{url('sayuran')}}">Jacket</a>
                  <a class="dropdown-item" href="{{url('sayuran')}}">Shoes</a>
+                 <a class="dropdown-item" href="{{url('sayuran')}}">Sandals</a>
                  <a class="dropdown-item" href="{{url('sayuran')}}">Hat</a>
 
               </div>
