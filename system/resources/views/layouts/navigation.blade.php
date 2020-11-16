@@ -14,9 +14,11 @@
            <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kategori</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
-                <a class="dropdown-item" href="{{url('sayuran')}}">Sayuran</a>
-                <a class="dropdown-item" href="{{url('sayuran')}}">Buah</a>
-                <a class="dropdown-item" href="{{url('sayuran')}}">Rempah</a>
+                <a class="dropdown-item" href="{{url('sayuran')}}">Clothes</a>
+                <a class="dropdown-item" href="{{url('sayuran')}}">Pants</a>
+                <a class="dropdown-item" href="{{url('sayuran')}}">Shoes</a>
+                <a class="dropdown-item" href="{{url('sayuran')}}">Sandals</a>
+                <a class="dropdown-item" href="{{url('sayuran')}}">Hat</a>
               </div>
             </li>
 
